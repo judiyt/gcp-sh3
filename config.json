@@ -2,13 +2,18 @@
   "inbounds": [
     {
       "port": 8080,
-      "protocol": "vmess",
+      "protocol": "vless",
       "settings": {
         "clients": [
           {
             "id": "28b2304a-e0fc-4600-91de-41f18ad3164d",
             "level": 0,
             "email": "ragnardiscussion@gmail.com"
+          },
+          {
+            "id": "e0fa7bd6-397f-46b9-95b3-c931c72f2271",
+            "level": 0,
+            "email": "user2@example.com"
           }
         ],
         "decryption": "none"
@@ -16,7 +21,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/ragnar"
+          "path": "/decrypter-isGAY-hizlaShala"
         }
       }
     }
@@ -27,7 +32,7 @@
       "settings": {
         "servers": [
           {
-            "address": "gcp.supremevip.xyz", 
+            "address": "gcp3.supremevip.xyz", 
             "port": 9720
           }
         ]
